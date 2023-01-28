@@ -26,7 +26,7 @@ class _HaberlerState extends State<Haberler> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Haber Uygulaması"),
+        title: Text("Haber Uygulaması Created  by Zyigit01"),
       ),
       body: Column(
         children: [
